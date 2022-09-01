@@ -7,7 +7,7 @@
   Undergraduate Intern @ **DMIS Lab, Korea University** (2021. 07 ~ )<br>
   Board @ **KWEB, Korea University Web Master** (2021. 07 ~ 2022. 02)<br><br>
   🌱 I’m currently learning ...<br>
-  Machine Learning, Deep Learning, NLP, Computer Vision<br><br>
+  NLP, Question Answering, GNN<br><br>
   🧑‍💻 I'm interested in ...<br>
   <img src="https://img.shields.io/badge/Multimodal-lightgrey?style=flat"/> <img src="https://img.shields.io/badge/BioNLP-lightgrey?style=flat"/>
   <h2>🔥 Tech Stacks 🔥</h2>
