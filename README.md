@@ -13,4 +13,3 @@
   <h2>🔥 Tech Stacks 🔥</h2>
   <img src="https://img.shields.io/badge/PyTorch-lightgrey?style=flat&logo=PyTorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/Python-lightgrey?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/TensorFlow-lightgrey?style=flat&logo=TensorFlow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/scikitlearn-lightgrey?style=flat&logo=scikit-learn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/Django-lightgrey?style=flat&logo=Django&logoColor=092E20"/>
 </div>
-
