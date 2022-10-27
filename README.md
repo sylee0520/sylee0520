@@ -4,8 +4,8 @@
   <b>Junior 3️⃣</b> @ Korea University, Computer Science & Engineering<br><br>
   
   🔭 I’m currently working on ...<br>
-  Undergraduate Intern @ **DMIS Lab, Korea University** (2021. 07 ~ )<br>
   Board @ **KWEB, Korea University Web Master** (2021. 07 ~ 2022. 02)<br><br>
+  Undergraduate Intern @ **DMIS Lab, Korea University** (2021. 07 ~ )<br>
   🌱 I’m currently learning ...<br>
   NLP, Question Answering, Conversation, Dialogue<br><br>
   🧑‍💻 I'm interested in ...<br>
