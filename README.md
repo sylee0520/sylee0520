@@ -4,7 +4,7 @@
 Junior @ **Computer Science & Engineering, Korea University**<br>
 Research Intern @ <b>DMIS Lab, Korea University</b><br>
 
-I'm interested in (1) applying language model to solve the real world problem effectively (**dataset generation, knowledge based**) (2) building conversation agent that think and communicate like human-beings (**conversation question answering, dialogue**) (3) finally, having a good influence to society through (**NLP for social good**)  <br>
+I'm interested in (1) applying language model to solve the real world problem effectively (**dataset generation, knowledge based**) (2) building conversation agent that think and communicate like human-beings (**conversation question answering, dialogue**) (3) finally, having a good influence to society.(**NLP for social good**)  <br>
 
 ## Vitae
 Board @ **KWEB, Korea University Web Master** (2021. 07 ~ 2022. 02)<br>
