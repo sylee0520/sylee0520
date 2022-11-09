@@ -1,9 +1,11 @@
 # Hi! I'm Seongyun Lee 👋
 
+## About
 <b>Junior </b> @ Computer Science & Engineering, Korea University<br>
 
 I'm interested in (1) applying language model to solve the real world problem effectively (**dataset generation, knowledge based**) (2) building conversation agent that think and communicate like human-beings (**conversation question answering, dialogue**) (3) finally, having a good influence to society through (**NLP for social good**)  <br>
 
+## Vitae
 Research Intern @ <b>DMIS Lab, Korea University</b> (2021. 07 ~ )<br><br>
 NLP, Question Answering, Conversation, Dialogue<br><br>
 🧑‍💻 I'm interested in ...<br>
