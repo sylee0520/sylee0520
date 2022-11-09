@@ -1,4 +1,4 @@
-  <h2> Hi! 👋  I'm Seongyun Lee </h2>
+  <h2> Hi! I'm Seongyun Lee 👋 </h2>
   <b>Junior 3️⃣</b> @ Korea University, Computer Science & Engineering<br><br>
   
   🔭 I’m currently working on ...<br>
