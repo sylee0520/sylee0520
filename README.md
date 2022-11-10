@@ -7,6 +7,7 @@ I'm interested in (1) applying language model to solve the real world problem ef
 
 ## Vitae
 Board @ **KWEB, Korea University Web Master** (2021. 07 ~ 2022. 02)<br>
+Research Intern @ **DMIS Lab, Korea University** (2021. 07 ~ )
 ## Tech Stacks
 ### Language
   <img src="https://img.shields.io/badge/Python-lightgrey?style=flat&logo=Python&logoColor=3776AB"/> 
