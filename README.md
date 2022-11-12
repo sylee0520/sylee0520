@@ -10,6 +10,6 @@ Board @ **KWEB, Korea University Web Master** (2021. 07 ~ 2022. 02)<br>
 Research Intern @ **DMIS Lab, Korea University** (2021. 07 ~ )
 ## Tech Stacks
 ### Language
-  <img src="https://img.shields.io/badge/Python-lightgrey?style=flat-square&logo=Python&logoColor=3776AB"/> 
+  <img src="https://img.shields.io/badge/Python-lightgrey?style=flat-square&logo=Python&logoColor=3776AB"/>
 ### Framework
   <img src="https://img.shields.io/badge/PyTorch-lightgrey?style=flat-square&logo=PyTorch&logoColor=EE4C2C"/> 
