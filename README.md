@@ -14,4 +14,4 @@ NLP Team Leader @ **AIKU, Korea University AI Society** (2022. 09 ~ )
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF"/>
   
 ### Framework
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=FFFFFF"/> 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Weights & Biases-FFBE00?style=flat-square&logo=Weights%20%26%20Biases&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=FFFFFF"/> 
