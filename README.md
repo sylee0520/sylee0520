@@ -1,5 +1,8 @@
 # Hi! I'm Seongyun Lee 👋
 
+## Note
+My first paper **LIQUID: A Framework for List Question Answering Dataset Generation** is accepted to AAAI-23. See you in Washington, D.C. on Feb!
+
 ## About
 I'm student at **Korea University**, majoring in **computer science**, and also studying NLP at <b>DMIS Lab, Korea University</b> as research intern.<br>
 
