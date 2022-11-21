@@ -1,7 +1,5 @@
 # Hi! I'm Seongyun Lee 👋
 
-<iframe></iframe>
-
 ## News
 - Nov. 2022: My first paper **LIQUID: A Framework for List Question Answering Dataset Generation** is accepted to AAAI-23. See you in Washington, D.C. on Feb 2023!
 
