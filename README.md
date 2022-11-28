@@ -9,9 +9,10 @@ I'm student at **Korea University**, majoring in **computer science**, and also 
 I'm interested in (1) applying the language model to solve real-world problem effectively (**Dataset Generation**, **Prompt Engineering**) (2) building a conversational agent that thinks and communicate like human beings (**Dialogue**, **Conversational Question Answering**) (3) finally, having a good influence to our society (**NLP for Social Good**). <br>
 
 ## Vitae
-Board @ **KWEB, Korea University Web Master** (2021. 07 ~ 2022. 02)<br>
+NLP Team Leader @ **AIKU, Korea University AI Society** (2022. 09 ~ ) <br>
 Research Intern @ **DMIS Lab, Korea University** (2021. 07 ~ ) <br>
-NLP Team Leader @ **AIKU, Korea University AI Society** (2022. 09 ~ )
+Board @ **KWEB, Korea University Web Master** (2021. 07 ~ 2022. 02)<br>
+
 ## Tech Stacks
 ### Language
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF"/>
