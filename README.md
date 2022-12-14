@@ -11,7 +11,7 @@ I'm interested in (1) applying the language model to solve real-world problem ef
 ## Vitae
 NLP Team Leader @ **AIKU, Korea University AI Society** (2022. 09 ~ ) <br>
 Research Intern @ **DMIS Lab, Korea University** (2021. 07 ~ ) <br>
-Board @ **KWEB, Korea University Web Master** (2021. 07 ~ 2022. 02)<br>
+Board @ **KWEB, Korea University Web Society** (2021. 07 ~ 2022. 02)<br>
 
 ## Tech Stacks
 ### Language
