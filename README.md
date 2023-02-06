@@ -1,7 +1,7 @@
 # Hi! I'm Seongyun Lee 👋
 
 ## News
-- Nov. 2022: My first paper **LIQUID: A Framework for List Question Answering Dataset Generation** got accepted to AAAI-23. <br> See you in Washington, D.C. on Feb 2023! [paper](https://arxiv.org/abs/2302.01691)
+- Nov. 2022: My first paper **LIQUID: A Framework for List Question Answering Dataset Generation** got accepted to AAAI-23. <br> See you in Washington, D.C. on Feb 2023! \[[paper](https://arxiv.org/abs/2302.01691)\]
 
 ## About
 I'm junior student at **Korea University**, majoring in **computer science**, and also studying **NLP** at [**LK Lab, KAIST AI**](https://lklab.kaist.ac.kr/) as research intern.<br>
