@@ -8,7 +8,7 @@ I'm junior student at **Korea University**, majoring in **computer science**, an
 
 I'm interested in (1) applying the language model to solve real-world problem efficiently (**Dataset Generation**, **Prompt Engineering**) (2) building a conversational agent that thinks and communicates like human beings (**Dialogue**, **Conversational Question Answering**) (3) finally, having a good influence to our society (**NLP for Social Good, Safe AI**). <br>
 
-## Vitae
+## Experiences
 Research Intern @ **LK Lab, KAIST AI** (2022. 12 ~ ) <br>
 NLP Team Leader @ **AIKU, Korea University AI Society** (2022. 09 ~ ) <br>
 Research Intern @ **DMIS Lab, Korea University** (2021. 07 ~ 2022. 12) <br>
