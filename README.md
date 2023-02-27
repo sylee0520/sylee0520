@@ -4,13 +4,13 @@
 - Nov. 2022: My first paper **LIQUID: A Framework for List Question Answering Dataset Generation** got accepted to AAAI-23. <br> See you in Washington, D.C. on Feb 2023! \[[paper](https://arxiv.org/abs/2302.01691)\]
 
 ## About
-I'm junior student at **Korea University**, majoring in **computer science**, and also studying **NLP** at [**LK Lab, KAIST AI**](https://lklab.kaist.ac.kr/) as research intern.<br>
+I'm senior student at **Korea University**, majoring in **computer science**, and also studying **NLP** at [**LK Lab, KAIST AI**](https://lklab.kaist.ac.kr/) as research intern.<br>
 
 I'm interested in (1) applying the language model to solve real-world problem efficiently (**Dataset Generation**, **Prompt Engineering**) (2) building a conversational agent that thinks and communicates like human beings (**Dialogue**, **Conversational Question Answering**) (3) finally, having a good influence to our society (**NLP for Social Good, Safe AI**). <br>
 
 ## Experiences
 Research Intern @ **LK Lab, KAIST AI** (2022. 12 ~ ) <br>
-NLP Team Leader @ **AIKU, Korea University AI Society** (2022. 09 ~ ) <br>
+NLP Team Leader, Co-founder @ **AIKU, Korea University AI Society** (2022. 09 ~ ) <br>
 Research Intern @ **DMIS Lab, Korea University** (2021. 07 ~ 2022. 12) <br>
 Board @ **KWEB, Korea University Web Society** (2021. 07 ~ 2022. 02)<br>
 
