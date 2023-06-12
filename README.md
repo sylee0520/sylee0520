@@ -9,6 +9,7 @@ I'm senior student at **Korea University**, majoring in **computer science**, an
 I'm interested in (1) exploring how the knowledge of large language models can be effectively aligned with the image/video domain. (**LLM**, **Video**, **Multimodal**) (2) building personalized search models that help users find the content they desire. (**Retrieval**, **Personalized Language Model**) (3) finally, having a good influence to our society (**NLP for Social Good**, **Safe AI**). <br><br>
 Please refer my [CV](https://drive.google.com/file/d/1u0KxjOf18QZoEGvuxnyLf5rdDDrMVJPp/view?usp=sharing) for more details!
 ## Experiences
+ML Research Intern @ **Twelve Labs** (2023. 06 ~ ) <br>
 Research Intern @ **LK Lab, KAIST AI** (2022. 12 ~ ) <br>
 NLP Team Leader, Co-founder @ **AIKU, Korea University AI Society** (2022. 09 ~ ) <br>
 Research Intern @ **DMIS Lab, Korea University** (2021. 07 ~ 2022. 12) <br>
