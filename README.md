@@ -1,6 +1,7 @@
 # Hi! I'm Seongyun Lee 👋
 
 ## News
+- Jun. 2023: I've joined [**Twelve Labs**](https://twelvelabs.io/) as an ML Research Intern! I'll mainly be working on video-language modeling!
 - Nov. 2022: My first paper **LIQUID: A Framework for List Question Answering Dataset Generation** got accepted to AAAI-23. <br> See you in Washington, D.C. on Feb 2023! \[[paper](https://arxiv.org/abs/2302.01691)\]
 
 ## About
