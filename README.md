@@ -2,7 +2,7 @@
 
 ## News
 - Jun. 2023: I've joined [**Twelve Labs**](https://twelvelabs.io/) as an ML Research Intern! I'll mainly be working on video-language modeling!
-- Nov. 2022: My first paper **LIQUID: A Framework for List Question Answering Dataset Generation** got accepted to AAAI-23. <br> See you in Washington, D.C. on Feb 2023! \[[paper](https://arxiv.org/abs/2302.01691)\]
+- Nov. 2022: My first paper **LIQUID: A Framework for List Question Answering Dataset Generation** got accepted to AAAI-23. <br> See you in Washington, D.C. on Feb 2023! \[[paper](https://arxiv.org/abs/2302.01691)\] \[[code](https://github.com/dmis-lab/LIQUID)\]
 
 ## About
 I'm senior student at **Korea University**, majoring in **computer science**, and also studying **NLP** at [**LK Lab, KAIST AI**](https://lklab.kaist.ac.kr/) as research intern.<br>
