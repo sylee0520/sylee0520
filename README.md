@@ -1,6 +1,7 @@
 # Hi! I'm Seongyun Lee 👋
 
 ## News
+- Nov. 2023: We released our Volcano work to Arxiv! Check the [paper](https://arxiv.org/abs/2311.07362), [code](https://github.com/kaistAI/Volcano), [model](https://huggingface.co/kaist-ai/volcano-13b) and [training dataset](https://huggingface.co/datasets/kaist-ai/volcano-train)!
 - Sep. 2023: I've joined KAIST AI as an MS student starting from the spring semester of 2024!
 - Jul. 2023: Our new work **[Zero-Shot Dense Video Captioning by Jointly Optimizing Text and Moment](https://arxiv.org/abs/2307.02682)** has published at Arxiv!
 - Jun. 2023: I've joined ML Modeling Team at [**Twelve Labs**](https://twelvelabs.io/) as an ML Research Intern! I'll mainly be working on video-language modeling!
