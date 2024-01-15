@@ -1,11 +1,11 @@
 # Hi! I'm Seongyun Lee 👋
 
 ## News
+- Jan. 2024: We released "Prometheus-Vision: Vision-Language Model as a Judge for Fine-Grained Evaluation" to Arxiv! Check the [paper]([https://arxiv.org/abs/2311.07362](https://arxiv.org/abs/2401.06591)), [code]([https://github.com/kaistAI/Volcano](https://github.com/kaistAI/prometheus-vision)), [model]([https://huggingface.co/kaist-ai/volcano-13b](https://huggingface.co/kaist-ai/prometheus-vision-13b-v1.0)), [training dataset]([https://huggingface.co/datasets/kaist-ai/volcano-train](https://huggingface.co/datasets/kaist-ai/Perception-Collection)) and [benchmark](https://huggingface.co/datasets/kaist-ai/Perception-Collection)!
 - Nov. 2023: We released our Volcano work to Arxiv! Check the [paper](https://arxiv.org/abs/2311.07362), [code](https://github.com/kaistAI/Volcano), [model](https://huggingface.co/kaist-ai/volcano-13b) and [training dataset](https://huggingface.co/datasets/kaist-ai/volcano-train)!
 - Sep. 2023: I've joined KAIST AI as an MS student starting from the spring semester of 2024!
 - Jul. 2023: Our new work **[Zero-Shot Dense Video Captioning by Jointly Optimizing Text and Moment](https://arxiv.org/abs/2307.02682)** has published at Arxiv!
 - Jun. 2023: I've joined ML Modeling Team at [**Twelve Labs**](https://twelvelabs.io/) as an ML Research Intern! I'll mainly be working on video-language modeling!
-- Nov. 2022: My first paper **LIQUID: A Framework for List Question Answering Dataset Generation** got accepted to AAAI-23. <br> See you in Washington, D.C. on Feb 2023! \[[paper](https://arxiv.org/abs/2302.01691)\] \[[code](https://github.com/dmis-lab/LIQUID)\]
 
 ## About
 I'm senior student at **Korea University**, majoring in **computer science**, and also studying **NLP** at [**LK Lab, KAIST AI**](https://lklab.kaist.ac.kr/) as research intern.<br>
