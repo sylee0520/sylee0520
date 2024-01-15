@@ -8,7 +8,7 @@
 - Jun. 2023: I've joined ML Modeling Team at [**Twelve Labs**](https://twelvelabs.io/) as an ML Research Intern! I'll mainly be working on video-language modeling!
 
 ## About
-I'm senior student at **Korea University**, majoring in **computer science**, and also studying **NLP** at [**LK Lab, KAIST AI**](https://lklab.kaist.ac.kr/) as research intern.<br>
+I'm M.S student at [**LK Lab, KAIST AI**](https://lklab.kaist.ac.kr/), researching **Multimodal and LLM** <br>
 
 I'm interested in (1) exploring how the knowledge of large language models can be effectively aligned with the image/video domain. (**LLM**, **Video**, **Multimodal**) (2) building personalized search models that help users find the content they desire. (**Retrieval**, **Personalized Language Model**) (3) finally, having a good influence to our society (**NLP for Social Good**, **Safe AI**). <br><br>
 Please refer my [CV](https://drive.google.com/file/d/16ee8l4hhQ2c86MbJz0oTnQ6FsKs1ESzS/view?usp=sharing) for more details!
