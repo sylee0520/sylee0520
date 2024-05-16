@@ -1,10 +1,9 @@
 # Hi! I'm Seongyun Lee 👋
 
 ## News
-- May. 2024: Our team won 1st place in [EHRSQL](https://sites.google.com/view/ehrsql-2024), one of the shared tasks at the [NAACL 2024 ClinicalNLP workshop](https://clinical-nlp.github.io/2024/)! And also our paper was accepted to same workshop as oral! 
-- Jan. 2024: We released "Prometheus-Vision: Vision-Language Model as a Judge for Fine-Grained Evaluation" to Arxiv! Check the [paper](https://arxiv.org/abs/2401.06591), [code](https://github.com/kaistAI/prometheus-vision), [model](https://huggingface.co/kaist-ai/prometheus-vision-13b-v1.0), [training dataset](https://huggingface.co/datasets/kaist-ai/Perception-Collection) and [benchmark](https://huggingface.co/datasets/kaist-ai/Perception-Collection)!
-- Nov. 2023: We released our Volcano work to Arxiv! Check the [paper](https://arxiv.org/abs/2311.07362), [code](https://github.com/kaistAI/Volcano), [model](https://huggingface.co/kaist-ai/volcano-13b) and [training dataset](https://huggingface.co/datasets/kaist-ai/volcano-train)!
-- Jul. 2023: Our new work **[Zero-Shot Dense Video Captioning by Jointly Optimizing Text and Moment](https://arxiv.org/abs/2307.02682)** has published at Arxiv!
+- May. 2024: Prometheus-Vision: Vision-Language Model as a Judge for Fine-Grained Evaluation is accepted to ACL 2024 Findings, See you in Bangkok! Check the [paper](https://arxiv.org/abs/2401.06591), [code](https://github.com/kaistAI/prometheus-vision), [model](https://huggingface.co/kaist-ai/prometheus-vision-13b-v1.0), [training dataset](https://huggingface.co/datasets/kaist-ai/Perception-Collection) and [benchmark](https://huggingface.co/datasets/kaist-ai/Perception-Collection)!
+- May. 2024: Our team won 1st place in [EHRSQL](https://sites.google.com/view/ehrsql-2024), one of the shared tasks at the [NAACL 2024 ClinicalNLP workshop](https://clinical-nlp.github.io/2024/)! And also our paper was accepted to same workshop as oral!
+- Mar. 2024: Volcano is accepted to NAACL 2024, See you in Mexico City! Check the [paper](https://arxiv.org/abs/2311.07362), [code](https://github.com/kaistAI/Volcano), [model](https://huggingface.co/kaist-ai/volcano-13b) and [training dataset](https://huggingface.co/datasets/kaist-ai/volcano-train)!
 
 ## About
 I'm M.S. student at [**LK Lab, KAIST AI**](https://lklab.kaist.ac.kr/), researching on **Multimodal and LLM** <br>
