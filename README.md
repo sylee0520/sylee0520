@@ -14,10 +14,6 @@ Please refer my [CV](https://drive.google.com/file/d/16ee8l4hhQ2c86MbJz0oTnQ6FsK
 ## Experiences
 MS Student @ **LK Lab, KAIST AI** (2024. 03 ~ ) <br>
 ML Research Intern @ **Twelve Labs** (2023. 06 ~ 2023. 09) <br>
-Research Intern @ **LK Lab, KAIST AI** (2022. 12 ~ 2024. 02) <br>
-NLP Team Leader, Co-founder @ **AIKU, Korea University AI Society** (2022. 09 ~ 2023. 07) <br>
-Research Intern @ **DMIS Lab, Korea University** (2021. 07 ~ 2022. 12) <br>
-Board @ **KWEB, Korea University Web Society** (2021. 07 ~ 2022. 02)<br>
 
 ## Tech Stacks
 ### Language
