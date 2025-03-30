@@ -13,6 +13,7 @@ I'm M.S. student at [**LK Lab, KAIST AI**](https://lklab.kaist.ac.kr/), research
 I'm interested in (1) exploring how the knowledge of large language models can be effectively aligned with the image/video domain. (**LLM**, **Video**, **Multimodal**) (2) building personalized search models that help users find the content they desire. (**Retrieval**, **Personalized Language Model**) (3) finally, having a good influence to our society (**NLP for Social Good**, **Safe AI**). <br><br>
 Please refer my [CV](https://docs.google.com/document/d/1lp0ZzLkOboi2_zFB9uVtzcKhrJUIJfoJSaEcrE_2mBg/edit?usp=sharing) for more details!
 ## Experiences
+Research Intern @ **LG AI Research** (2025. 03 ~ ) <br>
 MS Student @ **LK Lab, KAIST AI** (2024. 03 ~ ) <br>
 ML Research Intern @ **Twelve Labs** (2023. 06 ~ 2023. 09) <br>
 
